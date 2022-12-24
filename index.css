@@ -26,13 +26,14 @@ body {
   display: flex;
   background-color: hsl(0, 0%, 100%);
   flex-direction: column;
-  max-width: 17rem;
+  max-width: 18rem;
   padding: 0.5rem;
   border-radius: 1rem;
 }
 
 .title h1 {
-  font-size: larger;
+  font-size: 1.3rem;
+  font-weight: 700;
   color: hsl(218, 44%, 22%);
   text-align: center;
   padding-inline: 1rem;
